@@ -1,0 +1,12 @@
+{
+	"name" : "Vue3",
+	"dockerComposeFile" : "docker-compose.yml",
+	"service" : "vue3",
+	"workspaceFolder" : "/app",
+	"extensions" : [
+		"octref.vetur"
+	],
+	"settings" : {
+		"editor.tabSize" : 2
+	}
+}
